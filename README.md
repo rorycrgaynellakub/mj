@@ -100,9 +100,11 @@
 
 利用垫图生成产品图。
 - 原图：
-![image](https://github.com/rorycrgaynellakub/mj/assets/169983353/9b1d03ba-21b1-422b-900b-7939016b0e5d)
+![image](https://github.com/rorycrgaynellakub/mj/assets/169983353/85ad9b8e-71b8-4926-b7e5-c70ee8dd3269)
 
-![image](https://github.com/rorycrgaynellakub/mj/assets/169983353/63861a05-4fc4-4782-b182-55de40664de2)
+
+![image](https://github.com/rorycrgaynellakub/mj/assets/169983353/aa6a3d36-99d9-4b05-8650-c478fd638999)
+
 
 - prompt: `https://s.mj.run/SqYLfJb58mg https://s.mj.run/5DRdhz0sioI New Canon 200D2, SLR camera, white, detailed detail, one leaf, misty blue background, super detailed --iw 2 --seed 4145808824 --q 2 --v 5`
 - 生成图片：
