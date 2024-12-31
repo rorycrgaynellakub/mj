@@ -111,5 +111,5 @@
 ![image](https://github.com/rorycrgaynellakub/mj/assets/169983353/41da59ac-d58c-40a3-b1c0-b7599f9453a1)
 
 
-推荐一个虚拟信用卡开卡平台，包含香港、美国万事达VISA等多种卡头，0月费使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Netflix、OnlyFans、Ebay、Shopify、Github、TikTok、Paypal 等各类订阅海淘平台。[点击查看详情](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+
 
